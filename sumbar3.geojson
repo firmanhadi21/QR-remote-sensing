@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "sumbar3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "scene_id": "20251201_040913_53_253a", "acquired": "2025-12-01T04:09:13.534487Z", "cloud_cov": 7.0, "clear_pct": 89.0, "gsd": 3.8, "satellite": "253a", "sun_elev": 65.0, "sun_az": 146.6, "view_angle": 0.6, "tif_file": "20251201_040913_53_253a_3B_AnalyticMS_SR_file_format.tif", "block": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 100.251303434169969, -1.0188297367777 ], [ 100.546805423060334, -1.07772232779594 ], [ 100.512220398922864, -1.255132409101224 ], [ 100.216663921530682, -1.196682566233631 ], [ 100.251303434169969, -1.0188297367777 ] ] ] ] } },
+{ "type": "Feature", "properties": { "scene_id": "20251201_040915_81_253a", "acquired": "2025-12-01T04:09:15.819386Z", "cloud_cov": 0.0, "clear_pct": 97.0, "gsd": 3.8, "satellite": "253a", "sun_elev": 65.1, "sun_az": 146.4, "view_angle": 0.6, "tif_file": "20251201_040915_81_253a_3B_AnalyticMS_SR_file_format.tif", "block": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 100.223273611578293, -1.163624750885065 ], [ 100.51877308776497, -1.222371522671103 ], [ 100.48404107778363, -1.399948150583501 ], [ 100.188722813194531, -1.341413034924506 ], [ 100.223273611578293, -1.163624750885065 ] ] ] ] } }
+]
+}
